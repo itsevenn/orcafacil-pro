@@ -1,0 +1,1 @@
+@media print{body *{visibility:hidden}.printable-content,.printable-content *{visibility:visible}.printable-content{position:absolute;left:0;top:0;width:100%;margin:0;padding:20px;background:#fff}.no-print{display:none!important}@page{size:auto;margin:0}}
